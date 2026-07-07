@@ -1,4 +1,4 @@
-# 
+# Revolut Business Desktop provides global business accounts with multi-currency support, expense management, and international transfers.
 
 
 
